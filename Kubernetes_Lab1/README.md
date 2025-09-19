@@ -1,23 +1,14 @@
-# kubernetes
-
-상태: 시작 전
-시작일: 03/24/2025
-종료일: 03/28/2025
-우선순위: 보통
-시작 값: 0
-종료 값: 100
-진행 상황: 0%
-
 # minikube를 활용한 spring 배포 및 외부 환경 연동 구축
 
 ---
 
 ## 팀원
 
-| 이름 | 이제현 | 김동민 | 김현수 | 신준수 | 이정이 | 홍혜원 |
-| --- | --- | --- | --- | --- | --- | --- |
-| 프로필 | <img src="[https://github.com/lyjh98.png](https://github.com/lyjh98.png)" width="80px"> | <img src="[https://github.com/kddmmm.png](https://github.com/kddmmm.png)" width="80px"> | <img src="[https://github.com/Hyunsoo1998.png](https://github.com/Hyunsoo1998.png)" width="80px"> | <img src="[https://github.com/shinjunsuuu.png](https://github.com/shinjunsuuu.png)" width="80px"> | <img src="[https://github.com/2jeong2.png](https://github.com/2jeong2.png)" width="80px"> | <img src="[https://github.com/hyewon8245.png](https://github.com/hyewon8245.png)" width="80px"> |
-| GitHub | [lyjh98](https://github.com/lyjh98) | [kddmmm](https://github.com/kddmmm) | [chulsoo](https://github.com/Hyunsoo1998) | [shinjunsuuu](https://github.com/shinjunsuuu) | [2jeong2](https://github.com/2jeong2) | [hyewon8245](https://github.com/hyewon8245) |
+| 이름   | 이제현 | 김동민 | 김현수 | 신준수 | 이정이 | 홍혜원 |
+|--------|--------|--------|--------|--------|--------|--------|
+| 프로필 | <img src="https://github.com/lyjh98.png" width="80"> | <img src="https://github.com/kddmmm.png" width="80px"> | <img src="https://github.com/Hyunsoo1998.png" width="80px"> | <img src="https://github.com/shinjunsuuu.png" width="80px"> | <img src="https://github.com/2jeong2.png" width="80px"> | <img src="https://github.com/hyewon8245.png" width="80px"> |
+| GitHub | [lyjh98](https://github.com/lyjh98) | [kddmmm](https://github.com/kddmmm) | [Hyunsoo1998](https://github.com/Hyunsoo1998) | [shinjunsuuu](https://github.com/shinjunsuuu) | [2jeong2](https://github.com/2jeong2) | [hyewon8245](https://github.com/hyewon8245) |
+
 
 ## 프로젝트 목적
 
