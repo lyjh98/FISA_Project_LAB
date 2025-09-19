@@ -138,7 +138,7 @@ spec:
 
 ## 적용 결과
 
-![image.png](app/image%201.png)
+<img width="1129" height="100" alt="Image" src="https://github.com/user-attachments/assets/e9e5d354-91e7-4612-888d-79c63d9bd32a" />
 
 ## 회고
 
