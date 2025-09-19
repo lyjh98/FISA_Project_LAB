@@ -4,13 +4,14 @@
 
 | 이름 | 이제현 | 김동민 | 김현수 | 신준수 | 이정이 | 홍혜원 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 프로필 | <img src="[https://github.com/lyjh98.png](https://github.com/lyjh98.png)" width="80"> | <img src="[https://github.com/kddmmm.png](https://github.com/kddmmm.png)" width="80px"> | <img src="[https://github.com/Hyunsoo1998.png](https://github.com/Hyunsoo1998.png)" width="80px"> | <img src="[https://github.com/shinjunsuuu.png](https://github.com/shinjunsuuu.png)" width="80px"> | <img src="[https://github.com/2jeong2.png](https://github.com/2jeong2.png)" width="80px"> | <img src="[https://github.com/hyewon8245.png](https://github.com/hyewon8245.png)" width="80px"> |
+| 프로필 | <img src="https://github.com/lyjh98.png" width="80"> | <img src="https://github.com/kddmmm.png" width="80"> | <img src="https://github.com/Hyunsoo1998.png" width="80"> | <img src="https://github.com/shinjunsuuu.png" width="80"> | <img src="https://github.com/2jeong2.png" width="80"> | <img src="https://github.com/hyewon8245.png" width="80"> |
 | GitHub | [lyjh98](https://github.com/lyjh98) | [kddmmm](https://github.com/kddmmm) | [Hyunsoo1998](https://github.com/Hyunsoo1998) | [shinjunsuuu](https://github.com/shinjunsuuu) | [2jeong2](https://github.com/2jeong2) | [hyewon8245](https://github.com/hyewon8245) |
 
 ## 프로젝트 목적
 
 - 로컬 Minikube에 배포된 Spring 앱을 **Ingress로 노출**하여, 내부 우분투 환경에서 **도메인으로 접근** 가능한 실행 경로를 마련한다.
 - Ingress 라우팅과 도메인 매핑이 정상임을 **`curl`로 응답 검증**해 배포·접근 흐름을 확인한다.
+
 
 ## Ingress
 
