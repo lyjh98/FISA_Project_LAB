@@ -9,8 +9,8 @@
 
 ## 프로젝트 목적
 
-- 로컬 Minikube에 배포된 Spring 앱을 **Ingress로 노출**하여, 내부 우분투 환경에서 **도메인으로 접근** 가능한 실행 경로를 마련한다.
-- Ingress 라우팅과 도메인 매핑이 정상임을 **`curl`로 응답 검증**해 배포·접근 흐름을 확인한다.
+- 로컬 Minikube에 배포된 Spring 앱을 **Ingress로 노출**하여, 내부 우분투 환경에서 **도메인으로 접근** 가능한 실행 경로를 마련함.
+- Ingress 라우팅과 도메인 매핑이 정상임을 **`curl`로 응답 검증**해 배포·접근 흐름을 확인함.
 
 
 ## Ingress
@@ -133,17 +133,4 @@ spec:
           service:
             name: spring-service
             port:
-              number: 7080
-```
-
-## 적용 결과
-
-<img width="1129" height="100" alt="Image" src="https://github.com/user-attachments/assets/e9e5d354-91e7-4612-888d-79c63d9bd32a" />
-
-## 회고
-
-- 선언형 YAML 파일을 통해 Deployment, Service, Ingress까지 구성해 보았다.
-    
-    처음에는 Pod와 Service만으로도 충분하다고 생각했지만, Ingress를 적용하면서 도메인 기반 라우팅과 외부 접근을 효율적으로 제어할 수 있다는 점을 배웠다.
-    
-    특히 `kubectl apply -f`로 관리할 수 있어 재현성과 협업 측면에서 장점이 크다는 것을 체감했다.
+            함.
